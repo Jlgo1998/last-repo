@@ -9,6 +9,13 @@
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>executable</provides>
   </extension>
+  
+  <extension point="xbmc.addon.repository" name="HIGH ROLLER TV REPO">
+        <info>https://raw.githubusercontent.com/tontixs/last-repo/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/tontixs/last-repo/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/tontixs/master/Repositorio/</datadir>
+    </extension>
+  
   <extension point="xbmc.addon.metadata">
     <summary>HIGH ROLLER TV</summary>
     <description>WIZARD HIGH ROLLER TV</description>

@@ -12,7 +12,7 @@ import ntpath
 
 
 USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3'
-base = 'https://drive.google.com/uc?authuser=0&id=0B6lIWfjQ078qZW14Tkk1TmV2TjA&export=download' 
+base = 'https://github.com/tontixs' 
 ADDON = xbmcaddon.Addon(id='plugin.video.WizardHRTV')
 dialog = xbmcgui.Dialog()    
 VERSION = "1.0.4"
